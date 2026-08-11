@@ -1,6 +1,4 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PettBersanetti/PettBersanetti/main/banner.png" onerror="this.src='https://camo.githubusercontent.com/9dc074219c636f86c8a7b973614917ed613d9426f8d16e02613b516d296238b9/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f72656e6465723f747970653d776176696e6726636f6c6f723d303037374235266865696768743d3230302673656374696f6e3d68656164657226746578743d5065746572736f6e25323042657273616e6574746926666f6e7453697a653d3730'" width="100%" />
-</p>
 
 <h1 align="center">Peterson Bersanetti</h1>
 
@@ -45,10 +43,6 @@
 ---
 
 ### 📊 Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=petersonbersanetti&show_icons=true&locale=pt-br&layout=compact&theme=dark" />
-</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/petersonbersanetti/petersonbersanetti/output/github-contribution-grid-snake-dark.svg">
